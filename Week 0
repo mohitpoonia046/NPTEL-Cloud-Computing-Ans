@@ -1,0 +1,67 @@
+1) Which software does prevent external access to a system?
+ a) Firewall
+ b) Gateway
+ c) Router
+ d) Virus checker
+ans-(a)
+
+2) Which classes are used for connection-less socket programming?
+ a) Datagram Socket
+ b) Datagram Packet
+ c) Both Datagram Socket & Datagram Packet
+ d) Server Socket
+ans-(c)
+
+3) Which of the following is most appropriate about Threads? Threads of a process share
+ a) only global variables.
+ b) only heap.
+ c) neither global variables nor heap.
+ d) both heap and global variables.
+ans-(d)
+
+4) What is the maximum number of hosts under class B addresses?
+ a) 65536
+ b) 65534
+ c) 65535
+ d) 254
+ans-(b)
+
+5) Consider a system with 2 level caches. Access times of Level 1 cache, Level 2 cache, and main memory are 1 ns, 10ns, and 400 ns, respectively. The hit rates of Level 1 and Level 2 caches are 0.8 and 0.9, respectively. What is the average access time of the system ignoring the search time within the cache?
+ a) 12.6 ns
+ b) 11.2 ns
+ c) 10.6 ns
+ d) 12.4 ns
+ans-(c)
+
+6) Using a larger block size in a fixed block size file system leads to
+ a) better disk throughput but poorer disk space utilization
+ b) better disk throughput and better disk space utilization
+ c) poorer disk throughput but better disk space utilization
+ d) poorer disk throughput and poorer disk space utilization
+ans(a)
+
+7) Transport layer is implemented in the Firmware of a computer system.
+ a) True
+ b) False
+ans(b)
+
+8) A computer’s processor sends 32 bit addresses to the cache controller. It has a 512 KByte, 8-way set associative, write back data cache with block size of 32 Bytes. In addition to the address tag, each cache tag directory entry contains 3 valid bits and 1 modified bit. Find the size of the cache tag directory.
+ a) 212 Kbits
+ b) 320 Kbits
+ c) 160 Kbits
+ d) 120 Kbits
+ans-(b)
+
+9) Flow control is mainly implemented in
+ a) Physical Layer
+ b) Application Layer
+ c) Transport Layer
+ d) Session Layer
+ans(c)
+
+10) Where does the swap space reside ?
+ a) RAM
+ b) Disk
+ c) ROM
+ d) On-chip cache
+ans-(b)
