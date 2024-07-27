@@ -1,0 +1,67 @@
+1) Service-Oriented Architecture (SOA) possess:
+ a) A service provider, service requestor and service broker
+ b) A service provider and service requestor
+ c) A service requestor and service broker
+ d) Only a service broker
+ans-(a)
+
+2) XML is designed to describe _________.
+ a) pricing
+ b) SLA
+ c) data
+ d) service
+ans-(c)
+
+3) SOAP (Simple Object Access Protocol) does not restrict the endpoint implementation technology choices. SOAP is a platform-neutral choice.
+ a) True
+ b) False
+ans-(a)
+
+4) A Cyber‐Physical Cloud Computing (CPCC) architectural framework is a ________environment that can rapidly build, modify and provision cyber‐physical systems composed of a set of__________ based sensor, processing, control, and data services.
+ a) system, cloud computing
+ b) cloud computing, system
+ c) system, edge computing
+ d) edge, system computing
+ans-(b)
+
+5) Network Virtualization is a _________ environment that allows _______ service providers to dynamically compose ____________virtual networks.
+ a) networking, single, single
+ b) physical, single, multiple
+ c) networking, multiple, single
+ d) networking, multiple, multiple
+ans-(d)
+
+6) Customized wearable devices for collecting health parameters are the best examples of
+ a) IoHT
+ b) Fog device
+ c) Fog-Cloud interfaced.
+ d) Cloud-Fog-Edge-IoHT
+ans-(a)
+
+7) Dew Computing is a paradigm where on-premises computers provide functionality that is _________ of cloud services and is also collaborative with cloud services
+ a) dependant
+ b) independent
+ c) partial dependant
+ d) none of these
+ans-(b)
+
+8) SOAP uses ______ as transport protocol
+ a) UDDI
+ b) SLA
+ c) HTTP
+ d) XML
+ans-(c)
+
+9) Virtual Machine Monitor is also known as
+ a) Cluster Manager
+ b) Virtual Machine Handler
+ c) Virtual Machine Manager
+ d) Hypervisor
+ans-(d)
+
+10) Which of the following is/are XML parser API(s)?
+ a) XaaS (Anything as a Model)
+ b) SAX (Simple API to XML)
+ c) CLI (Command Line Interface)
+ d) DOM (Document Object Model)
+ans-(b)
