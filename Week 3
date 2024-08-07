@@ -1,0 +1,66 @@
+1) Which of the following statement(s) regarding OpenStack storage is/are right?
+ A. Object storage is managed by Cinder
+ B. Both ephemeral storage and block storage are accessible from within VM
+ C. Block storage persists until VM is terminated
+ D. Ephemeral storage is used to run operating system and/or scratch space
+Ans(a,c)
+
+2) A task takes time T in a uniprocessor system. In a parallel implementation, the task runs on P processors parallelly. The parallel efficiency is Eff, where 0<Eff<1. What is the time taken by each processor (M) in this implementation?
+ A. M = T
+ B. M = T/(Eff×P)
+ C. M = T/P
+ D. M = (T×Eff)/P
+Ans(b)
+
+3) What does the term "biasness towards vendors" imply in the context of SLA monitoring?
+ A. Vendor-driven selection of monitoring parameters
+ B. Customer-driven selection of monitoring parameters
+ C. Balanced approach in monitoring parameters
+ D. Lack of active monitoring on the customer's side
+Ans(a)
+
+4) How does the master node in the Google File System maintain communication with chunk servers?
+ A. Command messages
+ B. Update messages
+ C. Query messages
+ D. Heartbeat messages
+Ans(d)
+
+5) In a cloud, total service uptime is 175 minutes and availability of the service is 0.85. What is the service downtime?
+ A. 55 minutes
+ B. 148.75 minutes
+ C. 26.25 minutes
+ D. 45 minutes
+Ans(c)
+
+6) Statement 1: In ephemeral storage, the stored objects persist until the VM is terminated.
+	 Statement 2: The ephemeral storage is managed by Cinder in OpenStack.
+ A. Statement 1 is TRUE, Statement 2 is FALSE
+ B. Statement 2 is TRUE, Statement 1 is FALSE
+ C. Both statements are TRUE
+ D. Both statements are FALSE
+Ans(a)
+
+7) “Midsize providers can achieve similar statistical economies to an infinitely large provider” Does this fall under?
+ A. Correlated demand
+ B. Dependent demand
+ C. Independent demand
+ D. Mixed demand
+Ans(c)
+
+8) Let D(t) and R(t) be the instantaneous demand and resources at time t respectively. If demand is exponential (D(t)=et), any fixed provisioning interval (tp) according to the current demands will fall linearly behind.
+ A. TRUE
+ B. FALSE
+Ans(b)
+
+9) Which of the following is/are expected common SLA parameter(s) for both Software-as-a-Service and Storage-as-a-Service models?
+ A. usability
+ B. scalability
+ C. recovery
+ D. None of these
+Ans(b)
+
+10) Data retention and deletion by cloud providers do not fall under one of the SLA requirements.
+ A. True
+ B. False
+Ans(b)
