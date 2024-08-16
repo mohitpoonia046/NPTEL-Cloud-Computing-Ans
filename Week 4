@@ -1,0 +1,69 @@
+1) SQL Azure is a cloud-based relational database service that is based on:
+ (a) Oracle
+ (b) SQL Server
+ (c) MySQL
+ (d) None
+Ans(b)
+
+2) Microsoft Azure provides
+ (a) SaaS
+ (b) PaaS
+ (c) IaaS
+ (d) None
+Ans(a,b,c)
+
+3) Azure App Service plan defines
+ (a) Region
+ (b) Instance size
+ (c) Scale count
+ (d) None
+Ans(a,b,c)
+
+4) The OpenStack component - Glance monitors and meters the OpenStack cloud for billing, benchmarking.
+	 State True of False.
+ a) True
+ b) False
+Ans(b)
+
+5) GCP: Choose the correct option(s)
+ a) To run your web-application, you need to configure only the Google Storage bucket
+ b) “gcloud app deploy app.yaml” the command can be used to deploy your app to app-engine
+ c) After launching your application to app-engine anyone can view the app at http://[YOUR_PROJECT_ID].appspot.com
+ d) “gcloud app browse” – can be used to start the local development server for the application
+Ans(b,c)
+
+6) In OpenStack, the different components of Nova (e.g. scheduler, Compute, api etc.) communicates via:
+ (a) Message Queues
+ (b) Neutron
+ (c) Conductor
+ (d) Swift
+Ans(a)
+
+7) In OpenStack, __________ is a system for managing networks and IP addresses.
+ (a) Nova
+ (b) Keystone
+ (c) Neutron
+ (d) None of these
+Ans(c)
+
+8) Cloud DataStore in GCP is a NoSQL document database built for automatic scaling, high performance, and ease of application development
+ a) True
+ b) False
+Ans(a)
+
+9) GCP: Which one is/are correct statement(s)?
+ a) You can reuse the project ID only after you delete the previous project in GCP
+ b) A CNAME alias is a DNS record that lets you use a URL from your own domain to access resources, such as a bucket and objects, in Cloud Storage using your custom domain URL
+ c) “Multi-Regional” Storage class is used for the bucket to stream videoes and host hot web content accessed frequently around the world
+ d) “Nearline” Storage class is used for the bucket to store data accessed frequently in one part of the world
+Ans(a,b,c)
+
+10) OpenStack: Which IP use is preferred for transferring data to a VM from
+
+	(i) Another VM in the same cloud
+	(ii) One organization's network-
+ (a) i. Floating IP, ii. Private IP
+ (b) i. Private IP, ii. Floating IP
+ (c) Floating IP in both cases
+ (d) Private IP in both cases
+Ans(b)
