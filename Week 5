@@ -1,0 +1,68 @@
+1) In a SLA negotiation, the provider agreed with the service availability of 98%. The consumer runs the application for X hours/day. At the end of one month [31 days], the total service outage was 12 hrs. However, SLA negotiation (in terms of service availability) is honored.
+ a. X is atleast 19.74
+ b. X is atmost 19.74
+ c. X is exactly 19.74
+ d. Insufficient information
+Ans(a)
+
+2) Average resource demand is 45 units,Baseline (owned) unit cost is 200 units,Time is 10 hours,Peak resource demand is 100 units. If the cloud is cheaper than owning of computer infrastructures, the utility premium is
+ a. Greater than 2.22
+ b. Less than 2.22
+ c. Atleast 4.45
+ d. Atmost 4.45
+Ans(b)
+
+3) In computing, there is a linear relationship between the number of processing cores used and power consumption.
+ a. TRUE
+ b. FALSE
+Ans(b)
+
+4) The ________ takes a series of key/value pairs, processes each, and generates zero or more output.
+ a. map function
+ b. partition function
+ c. reduce function
+ d. None of these
+Ans(a)
+
+5) In a MapReduce framework the HDFS block size is 64 MB. We have 6 files of size 64KB, 65MB, X MB, Y KB, 67KB and 127MB. 24 blocks are created by Hadoop framework. The size of X and Y are respectively [one or more than one options may be correct, select all correct options]:
+ a. 66 and 64
+ b. 64 and 64
+ c. 64 and 66
+ d. 128 and 64
+Ans(b,c)
+
+6) Which among the following is/are logical resource(s)?
+ a. Network
+ b. Computer
+ c. Database
+ d. Execution
+Ans(d)
+
+7) When load decreases, VM management can be done by
+ a. Live migrate VMs to more utilized nodes
+ b. Shutdown unused nodes
+ c. Migrate VMs to less utilized nodes
+ d. None of these
+Ans(a,b)
+
+8) Correspondence between resources required by the users and resources available with the provider is known as
+ a. Resource provisioning
+ b. Resource adaptation
+ c. Resource mapping
+ d. None of these
+Ans(c)
+
+9) Ability or capacity of that system to adjust the resources dynamically to fulfill the requirements of the user is known     as
+ a. Resource provisioning
+ b. Resource adaptation
+ c. Resource mapping
+ d. None of these
+Ans(b)
+
+10) Statement 1: Map operation consists of transforming one set of key-value pairs to another.
+    Statement 2: Each reducer groups the results of the map step using the same key.
+ a. Both statements are true
+ b. Both statements are false
+ c. Statement 1 is true and Statement 2 is false
+ d. Statement 1 is false and Statement 2 is true
+Ans(a)
