@@ -1,0 +1,64 @@
+1) An IoT platform’s basic building blocks is/ are (choose the correct option(s)).
+ a. Gateway
+ b. Images
+ c. Network and Cloud
+ d. Containers
+Ans(a,c)
+
+2) __________ is used to delete a local image.
+ a. Docker rm
+ b. Docker rmi
+ c. Docker rvi
+ d. Docker push
+Ans(b)
+
+3) Docker Hub is a registry used to host various docker images.
+ a) True
+ b) False
+Ans(a)
+
+4) __________ enables different networks, spreads in a huge geographical area to connect together and be employed simultaneously by multiple users on demand.
+ a) Serverless
+ b) IoT Cloud
+ c) Sensor Cloud
+ d) Green Cloud
+Ans(c)
+
+5) Virtual machines get virtual access to host resources through a ________
+ a) Containers
+ b) Hypervisor
+ c) Both a and b
+ d) Images
+Ans(b)
+
+6) Vehicles providing their networking and data processing capabilities to other vehicles through the cloud comes under which service of IoT-based Vehicular Data Clouds.
+ a) SaaS
+ b) PaaS
+ c) IaaS
+ d) None of these
+Ans(c)
+
+7) Sensor data can be easily shared by different groups of users without any extra effort/ measure.
+ a. True
+ b. False
+Ans(b)
+
+8) Container is a compile time instance of an image.
+ a) True
+ b) False
+Ans(b)
+
+9) In the context of Green Cloud Computing, the Power Usage Effectiveness is defined as
+ a. Power Delivered / Overall Power
+ b. Overall Power / Power Delivered
+ c. Overall Power * Power Delivered
+ d. None of these
+Ans(b)
+
+10) Statement 1: Sensor-Cloud proxy exposes sensor resources as cloud services.
+	  Statement 2: Sensor network is still managed from the Sensor-Cloud Interface via Sensor Network Proxy
+ a. Statement 1 is True and Statement 2 is False
+ b. Statement 2 is True and Statement 1 is False
+ c. Both statements are True
+ d. Both statements are False
+Ans(c)
