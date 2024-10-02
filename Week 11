@@ -1,0 +1,69 @@
+1) Which of the following best describes the key features of dew computing?
+ a. Independence and collaboration ✅
+ b. Independence and centralization
+ c. Collaboration and decentralization
+ d. Connectivity and scalability
+Ans(a)
+
+2) Which of the following best describes serverless computing?
+ a. Developers manage scalability and orchestration of containers.
+ b. Developers run their logic as functions, and the cloud provider manages scalability ✅
+ c. Developers handle all containerization and runtime environments.
+ d. Developers run their applications directly on dedicated servers.
+Ans(b)
+
+3) Which of the following best describes Function-as-a-Service (FaaS)?
+ a) Functions run continuously and scale vertically.
+ b) Functions are triggered by events and executed in isolated environments. ✅
+ c) Functions are always active and manage their own scaling.
+ d) Functions are large, continuously running parts of an application.
+Ans(b)
+
+4) How does Serverless Computing differ from traditional Cloud Computing?
+ a) It focuses on system administrators and exposes server management.
+ b) It targets programmers by abstracting server management and simplifying development. ✅
+ c) It requires developers to handle all operational responsibilities.
+ d) It makes cloud software development more complicated.
+Ans(b)
+
+5) What is a key benefit of using AWS Lambda for running code?
+ a) You need to manage AWS resources and scaling.
+ b) You have to focus on operating system management and provisioning.
+ c) You upload code and AWS Lambda handles execution and scaling based on events. ✅
+ d) You must manually handle event sources and log streams.
+Ans(c)
+
+6) What does Google Cloud Functions primarily handle in terms of execution environment?
+ a) Server-based environments with manual provisioning
+ b) Fully managed environments with automatic scaling ✅
+ c) Local environments requiring extensive server management
+ d) Dedicated virtual machines for each function
+Ans(b)
+
+7) What is the primary focus of Azure Functions for developers?
+ a. Managing and maintaining servers
+ b. Writing code and configuring functions ✅
+ c. Handling infrastructure scaling manually
+ d. Deploying compiled languages only
+Ans(b)
+
+8) What is one major challenge of using renewable energy sources in cloud datacenters?
+ a) High capital costs and unpredictability ✅
+ b) Increased server maintenance requirements
+ c) Higher energy consumption from non-renewable sources
+ d) Decreased system reliability
+Ans(a)
+
+9) What is the primary focus of the power manager component in a sustainable cloud computing datacenter?
+ a. Controlling the temperature of the datacenter
+ b. Managing the power supply from renewable and grid sources ✅
+ c. Handling virtual machine migrations
+ d. Scheduling workloads to balance energy use
+Ans(b)
+
+10) Which component of sustainable cloud computing aims to balance the temperature in cloud datacenters to enhance energy efficiency?
+ a. Application Design
+ b. Capacity Planning
+ c. Cooling Management ✅
+ d. Renewable Energy
+Ans(c)
