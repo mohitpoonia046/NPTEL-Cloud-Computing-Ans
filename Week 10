@@ -1,12 +1,12 @@
 1) Why is VM migration important in cloud computing environments?
  a) To centralize all virtual machines on a single server.
- b) To efficiently distribute VM load across servers, allowing for system maintenance and operational efficiency.
+ b) To efficiently distribute VM load across servers, allowing for system maintenance and operational efficiency. ✅
  c) To permanently shut down under-utilized servers.
  d) To increase the number of servers in a data center.
 Ans(b)
 
 2) What is the difference between cold (non-live) and hot (live) VM migration?
- a) Cold migration turns off the VM during migration, while hot migration keeps the VM running.
+ a) Cold migration turns off the VM during migration, while hot migration keeps the VM running. ✅
  b) Cold migration keeps the VM running during migration, while hot migration turns off the VM.
  c) Both cold and hot migration suspend the VM during the process.
  d) Cold migration requires more resources than hot migration.
@@ -14,14 +14,14 @@ Ans(a)
 
 3) Which of the following approaches are commonly used in live VM migration?
  a) Cold-copy and Hot-copy.
- b) Pre-copy and Post-copy.
+ b) Pre-copy and Post-copy. ✅
  c) Suspend-copy and Resume-copy.
  d) Start-copy and End-copy.
 Ans(b)
 
 4) Which of the following is a primary concern during VM migration to ensure service continuity?
  a) Maximizing downtime and total migration time
- b) Minimizing both downtime and total migration time, and avoiding unnecessary disruption of active services
+ b) Minimizing both downtime and total migration time, and avoiding unnecessary disruption of active services ✅
  c) Allowing resource contention with the migrating OS to speed up the process
  d) Ensuring that the migration process takes as long as possible to ensure stability
 Ans(b)
@@ -29,13 +29,13 @@ Ans(b)
 5) Which phase of live VM migration involves suspending the execution of the VM at the source and copying the remaining dirty pages and CPU state to the destination?
  a) Pre-Copy Phase
  b) Post-Copy Phase
- c) Stop-and-Copy Phase
+ c) Stop-and-Copy Phase ✅
  d) On-Demand Copy Phase
 Ans(c)
 
 6) What is the primary advantage of the post-copy live memory migration strategy?
  a) It avoids copying any memory pages from the source to the destination.
- b) It ensures that memory pages are only copied on demand, potentially reducing unnecessary data transfer.
+ b) It ensures that memory pages are only copied on demand, potentially reducing unnecessary data transfer. ✅
  c) It copies all memory pages before stopping the VM at the source.
  d) It immediately restarts the VM at the source after copying the CPU state.
 Ans(b)
@@ -44,12 +44,12 @@ Ans(b)
  a) Load balancing
  b) Fault tolerance
  c) Power management
- d) Data replication
+ d) Data replication ✅
 Ans(d)
 
 8) In serial VM migration, what happens to the remaining VMs when the first VM enters the stop-and-copy phase?
  a) They continue to provide services
- b) They are suspended to prevent memory dirtying
+ b) They are suspended to prevent memory dirtying ✅
  c) They start their pre-copy cycle
  d) They are migrated simultaneously
 Ans(b)
@@ -57,13 +57,13 @@ Ans(b)
 9) What is a key advantage of using containers in cloud computing?
  a) Containers virtualize the hardware to run multiple operating systems
  b) Containers are heavyweight virtual machines with extensive resource requirements
- c) Containers package code and dependencies, allowing applications to run consistently across different environments
+ c) Containers package code and dependencies, allowing applications to run consistently across different environments ✅
  d) Containers require specific hardware configurations to function properly
 Ans(c)
 
 10) What is the main function of a Docker container image?
  a) To create a virtual machine with its own operating system
- b) To package an application along with its code, runtime, system tools, libraries, and settings
+ b) To package an application along with its code, runtime, system tools, libraries, and settings ✅
  c) To manage physical hardware resources for applications
  d) To execute applications directly on the host operating system without isolation
 Ans(b)
