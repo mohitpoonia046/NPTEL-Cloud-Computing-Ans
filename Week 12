@@ -1,0 +1,63 @@
+1) According to the given definition, which of the following statement(s) is (are) true about dew computing?
+ a. Dew computing is a cloud computing paradigm where all computing is done on the cloud without any reliance on on-premises computers.
+ b. Dew computing is a paradigm where on-premises computers provide functionality that is dependent on cloud services.
+ c. Dew computing is a paradigm where on-premises computers and cloud services are completely isolated from each other and do not collaborate in any way.
+ d. Dew computing is a paradigm where on-premises computers provide functionality that is independent of cloud services and is also collaborative with cloud services.✅
+Ans(d)
+
+2) What are the different aspects of CPS?
+ a. Cyber, physical, and communication only
+ b. Cyber, dynamics, and safety only
+ c. Cyber, physical, computation, dynamics, communication, security, and safety ✅
+ d. Cyber, physical, and computation only
+Ans(c)
+
+3) What is the benefit of 5G's ability to scale down in data rates, power, and mobility for IoT devices?
+ a. It allows for faster data rates and lower latency
+ b. It provides extremely lean and low-cost connectivity solutions ✅
+ c. It enables immersive experiences like VR and AR
+ d. It provides ultra-reliable, low-latency links for mission-critical communications.
+Ans(b)
+
+4) Fog-Edge computing leads to increased network congestion
+ a. True
+ b. False ✅
+Ans(b)
+
+5) What is(are) the key feature(s) of Mobile Cloud computing for 5G networks?
+ a. Sharing resources for mobile applications ✅
+ b. Improved reliability due to data storage in the cloud ✅
+ c. Increased resource consumption by mobile applications
+ d. None of these
+Ans(a,b)
+
+6) Mobility Analytics utilizes the cloud platform for computation and storage.
+ A) True ✅
+ B) False
+Ans(a)
+
+7) In which computing environment is latency fixed due to the location of application modules at the Area Gateway?
+ a. Fog computing ✅
+ b. Cloud computing
+ c. Serverless Computing
+ d. None of the above
+Ans(a)
+
+8) Resource-constrained low-latency devices drive the need of
+ a. Heterogeneous and distributed computing architectures ✅
+ b. Homogeneous and distributed computing architectures
+ c. Heterogeneous and parallel computing architectures
+ d. Homogeneous and parallel computing architectures
+Ans(a)
+
+9) Customized wearable devices for collecting health parameters are the best examples of
+ a. IoHT
+ b. Fog device
+ c. Fog-Cloud interfaced.
+ d. Cloud-Fog-Edge-IoHT ✅
+Ans(d)
+
+10) The cyber-physical system involves transdisciplinary approaches, merging the theory of cybernetics, mechatronics, design, and process science.
+ a. True ✅
+ b. False
+Ans(a)
