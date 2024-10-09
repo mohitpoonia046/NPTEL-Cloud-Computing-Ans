@@ -1,13 +1,13 @@
 1) Which of the following statements best describes fog computing?
  a) Fog computing refers to a model where data, processing, and applications are concentrated in the cloud rather than at the network edge.
  b) Fog computing is a term introduced by Cisco Systems to describe a model that centralizes data processing in the cloud to manage wireless data transfer to distributed IoT devices.
- c) Fog computing is a model where data, processing, and applications are concentrated in devices at the network edge rather than existing almost entirely in the cloud.
+ c) Fog computing is a model where data, processing, and applications are concentrated in devices at the network edge rather than existing almost entirely in the cloud. ✅
  d) The vision of fog computing is to enable applications on a few connected devices to run directly in the cloud without interaction at the network edge.
 Ans(c)
 
 2) Which of the following challenges is most effectively addressed by using fog and edge computing instead of a "cloud-only" approach for IoT applications?
  a) Resource management issues related to workload balance and task scheduling in cloud-based environments.
- b) The inefficiency of processing time-sensitive applications directly in the cloud due to high latency and large data bandwidth requirements.
+ b) The inefficiency of processing time-sensitive applications directly in the cloud due to high latency and large data bandwidth requirements. ✅
  c) The need for improved security and privacy features in cloud-based systems, which are not addressed by fog and edge computing.
  d) The difficulty in integrating multiple cloud services and platforms for comprehensive IoT data management.
 Ans(b)
@@ -16,27 +16,27 @@ Ans(b)
 Threads of a process share
  a) Data Flow
  b) Control.
- c) Tenancy.
+ c) Tenancy. ✅
  d) Infrastructure.
 Ans(c)
 
 4) Which of the following characteristics is NOT typically associated with fog computing infrastructure?
  a) Location awareness and low latency
  b) Better bandwidth utilization
- c) High computational power concentrated solely in the Cloud
+ c) High computational power concentrated solely in the Cloud ✅
  d) Support for mobility
 Ans(c)
 
 5) In the fog computing paradigm, which of the following accurately describes the relationship between local and global analyses?
  a) Local analyses are performed exclusively in the Cloud, while global analyses are done at the edge devices.
  b) Local and global analyses are performed only in the Cloud data centers.
- c) Local analyses are performed at the edge devices, and global analyses can be either performed at the edge or forwarded to the Cloud.
+ c) Local analyses are performed at the edge devices, and global analyses can be either performed at the edge or forwarded to the Cloud. ✅
  d) Local analyses are conducted by IoT devices, and global analyses are not necessary in fog computing.
 Ans(c)
 
 6) What is the primary goal of the application placement problem in the Cloud-Fog-Edge framework?
  a) To map all applications onto the Cloud servers to maximize computational power.
- b) To find available resources in the network that satisfy application requirements, respect constraints, and optimize the objective, such as minimizing energy consumption.
+ b) To find available resources in the network that satisfy application requirements, respect constraints, and optimize the objective, such as minimizing energy consumption. ✅
  c) To place all application components on edge devices to ensure low latency.
  d) To disregard resource capacities and focus solely on network constraints.
 Ans(b)
@@ -44,27 +44,27 @@ Ans(b)
 7) Which of the following is an example of an application constraint in the application placement problem on the Cloud-Fog-Edge framework?
  a) Finite capabilities of CPU and RAM on infrastructure nodes.
  b) Network latency and bandwidth limitations.
- c) Locality requirements restricting certain services’ executions to specific locations.
+ c) Locality requirements restricting certain services’ executions to specific locations. ✅
  d) Availability of storage resources in the Fog nodes.
 Ans(c)
 
 8) What is the primary purpose of offloading in the context of edge computing?
  a) To move all data processing from edge nodes to the cloud.
- b) To augment computing requirements by moving servers, applications, and associated data closer to the network edge.
+ b) To augment computing requirements by moving servers, applications, and associated data closer to the network edge. ✅
  c) To reduce the number of user devices connected to the network.
  d) To centralize all computational resources in the cloud for better performance.
 Ans(b)
 
 9) What is the primary goal of a cloud federation?
  a) To centralize all cloud services under a single provider.
- b) To deploy and manage multiple cloud services to meet business needs by collaborating among different Cloud Service Providers (CSPs).
+ b) To deploy and manage multiple cloud services to meet business needs by collaborating among different Cloud Service Providers (CSPs). ✅
  c) To limit the geographical reach of cloud services.
  d) To reduce the number of cloud service providers globally.
 Ans(b)
 
 10) Which of the following is a key benefit of forming a cloud federation?
  a) Centralized control of global cloud services.
- b) Increased resource utilization and load balancing across multiple Cloud Service Providers (CSPs).
+ b) Increased resource utilization and load balancing across multiple Cloud Service Providers (CSPs). ✅
  c) Reduced collaboration among Cloud Service Providers.
  d) Limiting the geographical footprint of Cloud Service Providers.
 Ans(b)
