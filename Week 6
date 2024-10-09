@@ -1,35 +1,35 @@
 1) Interception is considered as an attack on
- a) Confidentiality
+ a) Confidentiality ✅
  b) Availability
  c) Integrity
  d) Authenticity
 Ans(a)
 
 2) Find the correct statement(s):
- a) Different types of cloud computing service models provide different levels of security services
- b) Adapting your on-premises systems to a cloud model requires that you determine what security mechanisms are required and mapping those to controls that exist in your chosen cloud service provider
- c) Data should be transferred and stored in an encrypted format for security purpose
+ a) Different types of cloud computing service models provide different levels of security services ✅
+ b) Adapting your on-premises systems to a cloud model requires that you determine what security mechanisms are required and mapping those to controls that exist in your chosen cloud service provider ✅
+ c) Data should be transferred and stored in an encrypted format for security purpose ✅
  d) All are incorrect statements
 Ans(a,b,c)
 
 3) Which of the following is/are example(s) of passive attack?
  a) Replay
  b) Denial of service
- c) Traffic analysis
+ c) Traffic analysis ✅
  d) Masquerade
 Ans(c)
 
 4) Modification is considered as an attack on
  (a) Confidentiality
  (b) Availability
- (c) Integrity
+ (c) Integrity ✅
  (d) Authenticity
 Ans(c)
 
 5) Spoofing is not an example of
  (a) Deception
- (b) Disclosure
- (c) Usurpation
+ (b) Disclosure ✅
+ (c) Usurpation ✅
  (d) Disruption
 Ans(b,c)
 
@@ -39,21 +39,21 @@ Ans(b,c)
 
 Identify the correct options:
  a) Statement I is TRUE and statement II is FALSE.
- b) Statement I is FALSE and statement II is TRUE.
+ b) Statement I is FALSE and statement II is TRUE. ✅
  c) Both statements are TRUE.
  d) Both statements are FALSE.
 Ans(b)
 
 7) Access policy control refers to
- a) Cyclic Inheritance Control
+ a) Cyclic Inheritance Control ✅
  b) Virus Attack
- c) Violation of SoD (separation of duties) Constraint
+ c) Violation of SoD (separation of duties) Constraint ✅
  d) Man in the middle attack
 Ans(a,c)
 
 8) Which of the options is/are considered as the basic components of security?
- a) Confidentiality
- b) Integrity
+ a) Confidentiality ✅
+ b) Integrity ✅
  c) Reliability
  d) Efficiency
 Ans(a,b)
@@ -61,11 +61,11 @@ Ans(a,b)
 9) Which of the following is/are not a type of passive attack?
  a) Traffic Analysis
  b) Release of message contents
- c) Denial of service
- d) Replay
+ c) Denial of service ✅
+ d) Replay ✅
 Ans(c,d)
 
 10) Side channel exploitation has the potential to extract RSA & AES secret keys
- a) True
+ a) True ✅
  b) False
 Ans(a)
