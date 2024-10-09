@@ -1,43 +1,43 @@
 1) Which of the following fall(s) under the “essential characteristics” of cloud computing?
- A. Resource Pooling
- B. Measured Service
- C. Rapid Elasticity
+ A. Resource Pooling ✅
+ B. Measured Service ✅
+ C. Rapid Elasticity ✅
  D. Latency
-ans-(a,b,c)
+ans-(a,b,c) 
 
 2) “Google Doc” is an example of
  A. PaaS
  B. IaaS
- C. SaaS
+ C. SaaS ✅
  D. FaaS
 ans-(c)
 
 3) Business-Process-as-a-Service is not a part of XaaS.
  A) True
- B) False
+ B) False ✅
 ans-(b)
 
 4) Network Function Virtualization involves the implementation of _______ function in software that can run on a range of industry-standard servers ______________.
- A. network,software
+ A. network,software ✅
  B. hardware, software
  C. hardware, network
  D. network,hardware
 ans-(a)
 
 5) Which are the following applications for SaaS (Software as a Service) architecture?
- A) Billing software
- B) CRM
+ A) Billing software ✅
+ B) CRM ✅
  C) App engines
  D) None of above
 ans-(a,b)
 
 6) Web access to commercial software is one of the SaaS characteristics in the cloud computing paradigm.
- A. True
+ A. True ✅
  B. False
 ans-(a)
 
 7) In the case of the client-server model: Statement (i) Virtualization is a core concept; Statement (ii) system can scale infinitely
- A) Only Statement (i) is correct
+ A) Only Statement (i) is correct ✅
  B) Only Statement (ii) is correct
  C) Both Statements (i) and (ii) are correct
  D) None of the statements is correct
@@ -45,19 +45,19 @@ ans-(a)
 
 8) Client-server model is always load-balanced
  A) True
- B) False
+ B) False ✅
 ans-(b)
 
 9) PaaS (Platform as a Service) brings the benefits: (i) Creation of software (ii) Integration of web services and databases
  A. Only (i)
  B. Only (ii)
- C. Both (i) and (ii)
+ C. Both (i) and (ii) ✅ 
  D. Neither (i) nor (ii)
 ans-(c)
 
 10) Which of the following is false?
  a) Private cloud is dedicated solely to an organization.
- b) Community cloud is a composition of public and private cloud.
+ b) Community cloud is a composition of public and private cloud. ✅
  c) Public cloud is available to the general public.
  d) None of these
 ans-(b)
