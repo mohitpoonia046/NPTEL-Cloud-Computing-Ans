@@ -1,49 +1,49 @@
 1) The key features of mobile cloud computing (MCC) are
- a) Facilitates the quick development, delivery and management of mobile apps
+ a) Facilitates the quick development, delivery and management of mobile apps ✅
  b) Uses more device resources because applications are cloud-supported
- c) Improves reliability with information backed up and stored in the cloud
+ c) Improves reliability with information backed up and stored in the cloud ✅
  d) None of these
 Ans(a,c)
 
 2) Dynamic runtime offloading involves the issues of
- a) Runtime application partitioning
- b) Migration of intensive components
- c) Continuous synchronization for the entire duration of runtime execution platform
+ a) Runtime application partitioning ✅
+ b) Migration of intensive components ✅
+ c) Continuous synchronization for the entire duration of runtime execution platform ✅
  d) None of these
 Ans(a,b,c)
 
 3) What is/are true about cloudlet?
  a) Increases the latency in reaching the cloud servers
- b) Reduces the latency in reaching the cloud servers
+ b) Reduces the latency in reaching the cloud servers ✅
  c) Resides far from the mobile devices
- d) Resides near to the mobile devices
+ d) Resides near to the mobile devices ✅
 Ans(b,d)
 
 4) What is/are true about mobile cloud computing (MCC)?
  a) MCC increases the running cost for computation intensive applications
- b) MCC reduces the running cost for computation intensive applications
+ b) MCC reduces the running cost for computation intensive applications ✅
  c) MCC decreases battery lifetime
  d) None of these
 Ans(b)
 
 5) What is/are true about the execution of services in mobile cloud computing (MCC)?
  a) All services are executed in cloud
- b) Some services are executed in mobile devices and some services are executed in cloud
+ b) Some services are executed in mobile devices and some services are executed in cloud ✅
  c) All computation intensive services are executed in mobile devices
  d) None of these
 Ans(b)
 
 6) What of the following is/are fog device(s)?
- a) Cellular base stations
- b) Network routers
- c) WiFi Gateways
+ a) Cellular base stations ✅
+ b) Network routers ✅
+ c) WiFi Gateways ✅
  d) None of these
 Ans(a,b,c)
 
 7) What is/are the advantage(s) of fog computing?
- a) Reduction in data movement across the network resulting in reduced congestion
+ a) Reduction in data movement across the network resulting in reduced congestion ✅
  b) Increase in data movement across the network resulting in increased congestion
- c) Serving the real-time applications
+ c) Serving the real-time applications ✅
  d) None of these
 Ans(a,c)
 
@@ -52,20 +52,20 @@ Ans(a,c)
 		Statement 2: Data services can be inside and/or outside of the cloud environment in Geospatial Cloud.
  a) Statement 1 is Correct, but Statement 2 is Incorrect.
  b) Statement 2 is Correct, but Statement 1 is Incorrect.
- c) Both statements are Correct.
+ c) Both statements are Correct. ✅
  d) Both statements are Incorrect
 Ans(c)
 
 9) Which of the following statement(s) is/are FALSE about Fog Computing?
  a) Fog nodes present near to the end-user
  b) Fog computing enables real-time applications
- c) Fog nodes’ response time is much higher than Cloud’s
- d) Network routers, WiFi Gateways will not be capable of running applications
+ c) Fog nodes’ response time is much higher than Cloud’s ✅
+ d) Network routers, WiFi Gateways will not be capable of running applications ✅
 Ans(c,d)
 
 10) Which of the following is/are true about Geospatial Cloud Model?
  a) It integrates data from homogeneous back-end data services
- b) Data services can be inside and/or outside the cloud environment
+ b) Data services can be inside and/or outside the cloud environment ✅
  c) Data services inside cloud can be run through SaaS service model
  d) None of the above
 Ans(b)
